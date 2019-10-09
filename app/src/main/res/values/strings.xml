@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MyTensorflow</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Camera</string>
+    <string name="title_galery">Gallery</string>
+    <string name="title_notifications">About</string>
+
+    <string-array name="options_array">
+        <item>Mobilenet</item>
+        <item>RestNet</item>
+        <item>Inception</item>
+        <item>Inception RestNet</item>
+        <item>MnasNet</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
